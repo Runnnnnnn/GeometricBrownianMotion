@@ -1,4 +1,4 @@
-# GeometricBrownianMotion
+# Stock Price Movement
 Haven't touch RStudio for years and get rusty on it. Write some codes to have fun.
 
 
