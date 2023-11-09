@@ -14,5 +14,7 @@ for (j in 1:100){
   for (i in 1:100){
     st[j,i+1] = st[j,i]*exp((r-sigma^2/2)*(T/100)+sigma*sqrt(T/100)*w[j,i])
   }
+
 }
-matplot(t(st),type="l")
+
+matplot(t(st),type="l",lwd=1,xlab="Time(t)",ylab="S(t)",main="Stock Price Movement",axes=T)
