@@ -1,4 +1,4 @@
-# Stock Price Movement
+# Warm-up
 Haven't touch RStudio for years and get rusty on it. Write some codes to have fun.
 
 
